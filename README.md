@@ -16,6 +16,7 @@ EscapeRoom: Kidnapper House provides an immersive gaming experience, with realis
 Are you ready to enter the Kidnapper House and outsmart your captor? Good luck, and may your wits guide you to safety!
 
 And now a few images of the project: 
+<br/>
 ![image2](https://github.com/PradaFran/EscapeRoom/assets/83666856/c9868589-b39c-4e37-9222-70c3f6d612a5)
 
 ![image](https://github.com/PradaFran/EscapeRoom/assets/83666856/1e239a37-af32-4599-8f80-bc71f488c8ad)
