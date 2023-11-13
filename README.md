@@ -14,3 +14,13 @@ Throughout the gameplay, players will encounter obstacles and challenges that te
 EscapeRoom: Kidnapper House provides an immersive gaming experience, with realistic graphics, captivating gameplay mechanics, and an intense atmosphere. It challenges players to stay focused, work together, and think outside the box to overcome the kidnapper's devious traps and secure their freedom.
 
 Are you ready to enter the Kidnapper House and outsmart your captor? Good luck, and may your wits guide you to safety!
+
+And now a few images of the project: 
+![image2](https://github.com/PradaFran/EscapeRoom/assets/83666856/c9868589-b39c-4e37-9222-70c3f6d612a5)
+
+![image](https://github.com/PradaFran/EscapeRoom/assets/83666856/1e239a37-af32-4599-8f80-bc71f488c8ad)
+
+![image1](https://github.com/PradaFran/EscapeRoom/assets/83666856/2a62bcb3-6105-4d33-8591-8d260b6bcc1b)
+
+![image4](https://github.com/PradaFran/EscapeRoom/assets/83666856/307bc919-e9a1-47a3-9f3c-f85005e049bf)
+
