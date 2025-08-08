@@ -1,9 +1,9 @@
 # EscapeRoom: Kidnapper House's 
-> Kidnapper House's its a game develop in C# with the Unity Framework for a proyect of the class made with 4 students in 5 hours
+> Kidnapper House's its a game developed in C# with Unity Framework. It was a class proyect made with 4 students in 5 hours.
 
 ## The Objetive 
 
-In EscapeRoom: Kidnapper House, the objective is to escape from a terrifying kidnapper's house by locating and utilizing hidden tools scattered throughout the house. Players will find themselves trapped in a mysterious and dangerous environment, filled with suspense and challenging puzzles.
+In EscapeRoom: Kidnapper House, the objective is to escape from a terrifying kidnapper's house by locating and using hidden tools scattered throughout the house. Players will find themselves trapped in a mysterious and dangerous environment, filled with suspense and challenging puzzles.
 
 The game offers a captivating storyline, where players must navigate through various rooms, each presenting unique obstacles and clues.
 
